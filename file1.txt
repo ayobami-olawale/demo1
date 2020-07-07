@@ -1,2 +1,4 @@
 #Trying out Git
-Update to File 1
+update to File 1
+Edits from firstbranch
+Another edits from our branch
